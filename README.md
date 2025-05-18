@@ -19,7 +19,7 @@ O projeto foi desenvolvido com o objetivo de praticar conceitos de programação
 Clone o repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/KaioGabriel-the/Project-Blog.git
+https://github.com/KaioGabriel-the/Coins-Converte.git
 ```
 
 ## 📱 CONTATO
